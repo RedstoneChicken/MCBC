@@ -1,0 +1,24 @@
+{
+	"resource_pack_name": "MCBC Team Heads",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"orangehead": {
+			"textures": "textures/mcbc/items/orangehead"
+		},
+		"purplehead": {
+			"textures": "textures/mcbc/items/purplehead"
+		},
+		"greenhead": {
+			"textures": "textures/mcbc/items/greenhead"
+		},
+		"yellowhead": {
+			"textures": "textures/mcbc/items/yellowhead"
+		},
+		"redhead": {
+			"textures": "textures/mcbc/items/redhead"
+		},
+		"bluehead": {
+			"textures": "textures/mcbc/items/bluehead"
+		}
+	}
+}
