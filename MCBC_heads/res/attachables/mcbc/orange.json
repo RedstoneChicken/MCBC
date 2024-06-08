@@ -1,0 +1,18 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "mcbc.orangehead",
+      "materials": {
+        "default": "armor"
+      },
+      "textures": {
+        "default": "textures/mcbc/blocks/orangehead"
+      },
+      "geometry": {
+        "default": "geometry.orangehead"
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}

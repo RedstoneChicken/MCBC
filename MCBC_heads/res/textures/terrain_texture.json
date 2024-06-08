@@ -1,0 +1,55 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+  
+	"texture_data": {
+		"hh.bdoubleo100": {
+			"textures": ["textures/mcbc/blocks/bdoubleo100"]
+		},
+		"hh.biffa2001": { "textures": ["textures/mcbc/blocks/biffa2001"] },
+		"hh.cubfan135": { "textures": ["textures/mcbc/blocks/cubfan135"] },
+		"hh.docm77": { "textures": ["textures/mcbc/blocks/docm77"] },
+		"hh.drav0011": { "textures": ["textures/mcbc/blocks/drav0011"] },
+		"hh.etho": { "textures": ["textures/mcbc/blocks/etho"] },
+		"hh.falsesymmetry": {
+			"textures": ["textures/mcbc/blocks/falsesymmetry"]
+		},
+		"hh.goodtimeswithscar": {
+			"textures": ["textures/mcbc/blocks/goodtimeswithscar"]
+		},
+		"hh.grian": { "textures": ["textures/mcbc/blocks/grian"] },
+		"hh.hypnotizd": { "textures": ["textures/mcbc/blocks/hypnotizd"] },
+		"hh.ijevin": { "textures": ["textures/mcbc/blocks/ijevin"] },
+		"hh.impulsesv": { "textures": ["textures/mcbc/blocks/impulsesv"] },
+		"hh.iskall85": { "textures": ["textures/mcbc/blocks/iskall85"] },
+		"hh.jessassin": { "textures": ["textures/mcbc/blocks/jessassin"] },
+		"hh.joehillssays": {
+			"textures": ["textures/mcbc/blocks/joehillssays"]
+		},
+		"hh.keralis1": { "textures": ["textures/mcbc/blocks/keralis1"] },
+		"hh.mumbo_jumbo": {
+			"textures": ["textures/mcbc/blocks/mumbo_jumbo"]
+		},
+		"hh.pythongb": { "textures": ["textures/mcbc/blocks/pythongb"] },
+		"hh.renthedog": { "textures": ["textures/mcbc/blocks/renthedog"] },
+		"hh.stressmonster101": {
+			"textures": ["textures/mcbc/blocks/stressmonster101"]
+		},
+		"hh.tango_tek": { "textures": ["textures/mcbc/blocks/tango_tek"] },
+		"hh.tinfoilchef": {
+			"textures": ["textures/mcbc/blocks/tinfoilchef"]
+		},
+		"hh.vintagebeef": {
+			"textures": ["textures/mcbc/blocks/vintagebeef"]
+		},
+		"hh.welsknight": {
+			"textures": ["textures/mcbc/blocks/welsknight"]
+		},
+		"hh.xbcrafted": { "textures": ["textures/mcbc/blocks/xbcrafted"] },
+		"hh.xisuma": { "textures": ["textures/mcbc/blocks/xisuma"] },
+		"hh.zedaph": { "textures": ["textures/mcbc/blocks/zedaph"] },
+		"hh.zombiecleo": { "textures": ["textures/mcbc/blocks/zombiecleo"] }
+	}
+}
