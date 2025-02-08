@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§6§lMCBC §r§6Addon Pack§r - v3.0 §g[§rB§g]",
+		"description": "Created By §cRedstone Chicken §7for MCBC",
+		"uuid": "b9445916-f0ed-4ff5-a53e-ad1caee9a1c7",
+		"version": [
+			3,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			16,
+			100
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "f5a3d10c-049a-4db7-aa89-ee3301be5770",
+			"version": [
+				3,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				3,
+				0,
+				0
+			],
+			"uuid": "3e2d9d86-a229-4e93-ac7c-50b94d0ef798"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "hopper": {
+        "textures": {
+            "west": "hopper_outside_west",
+            "east": "hopper_outside_east",
+            "up": "hopper_top",
+            "south": "hopper_outside_south",
+            "down": "hopper_inside",
+            "north": "hopper_outside_north"
+        },
+        "sound": "metal"
+    },
+    "rsc:void_block": {
+        "textures": "void_block",
+        "sound": "stone"
+    },
+    "sticky_piston": {
+        "textures": {
+            "down": "piston_bottom",
+            "side": "piston_side_sticky",
+            "up": "piston_top"
+        },
+        "sound": "stone",
+        "carried_textures": {
+            "down": "piston_bottom",
+            "side": "piston_side_sticky",
+            "up": "piston_top_sticky"
+        }
+    }
+}
