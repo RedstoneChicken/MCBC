@@ -1,0 +1,18 @@
+{
+	"resource_pack_name": "MCBC addon pack v1",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"rsc_grelic": {
+			"textures": "textures/items/Relics/grelic"
+		},
+		"rsc_brelic": {
+			"textures": "textures/items/Relics/brelic"
+		},
+		"rsc_rrelic": {
+			"textures": "textures/items/Relics/rrelic"
+		},
+		"rsc_yrelic": {
+			"textures": "textures/items/Relics/yrelic"
+		}
+	}
+}

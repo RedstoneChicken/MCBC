@@ -1,0 +1,11 @@
+tile.rsc:void_block.name=Void block
+item.rsc:grelic=Green Relic
+item.rsc:brelic=Blue Relic
+item.rsc:rrelic=Red Relic
+item.rsc:yrelic=Yellow Relic
+item.mcbc:orangehead=Orange Otter Head
+item.mcbc:purplehead=Purple Penguin Head
+item.mcbc:greenhead=Green Griffin Head
+item.mcbc:yellowhead=Yellow Yeti Head
+item.mcbc:redhead=Red Racoon Head
+item.mcbc:bluehead=Blue Bullfrog Head

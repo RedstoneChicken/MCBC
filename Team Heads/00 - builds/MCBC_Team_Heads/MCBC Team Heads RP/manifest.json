@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§6§lMCBC §r§6Team Heads§r - v1.0 §g[§rR§g]",
+		"description": "Created By §cRedstone Chicken §7for MCBC",
+		"min_engine_version": [
+			1,
+			20,
+			80
+		],
+		"uuid": "f2ea009e-17b9-43cc-ae10-80a44d57ca7a",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "3e8abe21-d948-4e0b-adef-34817c0a88ad",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"2.7.21"
+			],
+			"dash": [
+				"github:bridge-core/dash-compiler#8fa35c73292f6382747d0f411fca26431a6d2c8e"
+			]
+		}
+	}
+}

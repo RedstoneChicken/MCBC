@@ -1,0 +1,14 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "rsc:brelic",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "rsc_brelic"
+			}
+		}
+	}
+}
